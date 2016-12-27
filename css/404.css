@@ -3,6 +3,12 @@ body {color: #838b94;
 background: #000 fixed 50% 0;
 }
 
+*{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
 a:visited{
 color: #353c40;
 text-decoration:none;
